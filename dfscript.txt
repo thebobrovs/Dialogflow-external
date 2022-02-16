@@ -1,7 +1,7 @@
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger-cx/bootstrap.js?v=1"></script>
 <df-messenger
   df-cx="true"
-  chat-title="demo"
+  chat-title="GoPro Chat Demo"
   agent-id="b7ce6a8b-0a89-422a-b90a-bcb5a9132d65"
   language-code="en"
 ></df-messenger>
